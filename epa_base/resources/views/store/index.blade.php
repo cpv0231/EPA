@@ -84,7 +84,7 @@
 <hr>
 <div class="brands"> 
   <div class="container">
-    <h2 class="shopbrands">Shop by Brands</h2>
+    <h2 class="shopbrands">op by Brands</h2>
     <div class="row">
       @foreach($brands as $brand)
       <div class="col-sm-6 col-md-2 col-xs-6">
